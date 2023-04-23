@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("nihao a!");
+	printf("nihao aaaaa!");
 	printf("nimengdousb\n");
 
 	return 0;
